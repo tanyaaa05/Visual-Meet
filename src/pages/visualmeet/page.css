@@ -1,0 +1,121 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.login-register {
+  font-family: "DM Mono", sans-serif;
+  height: 100vh;
+  background: linear-gradient(90deg, #034078 0%, #1282a2 100%);
+
+  background: -moz-linear-gradient(90deg, #034078 0%, #1282a2 100%);
+
+  background: -webkit-linear-gradient(90deg, #034078 0%, #1282a2 100%);
+}
+#parentRegisterLogin {
+  display: flex;
+  justify-content: center;
+  font-family: "DM Mono", sans-serif;
+  align-items: center;
+  height: 90vh;
+  font-weight: 600;
+
+  /*     background: radial-gradient(circle, #034078, #26528c, #3e65a0, #5478b5, #698cca, #6992cf, #6999d4, #699fd8, #5498cc, #3f91be, #2a8ab0, #1282a2); */
+  /*
+  background: linear-gradient(90deg, #034078 0%, #1282a2 100%);
+
+  background: -moz-linear-gradient(90deg, #034078 0%, #1282a2 100%);
+
+  background: -webkit-linear-gradient(90deg, #034078 0%, #1282a2 100%); */
+  color: #001933;
+}
+
+.header-logo {
+  height: 10vh;
+  display: flex;
+  align-items: center;
+  a {
+    text-decoration: none;
+    margin: 0;
+    color: #00468f;
+    padding-top: 2.5vh;
+    padding-left: 2.5vh;
+    font-size: 2.5em;
+    font-weight: bold;
+  }
+}
+
+.register,
+.login {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  backdrop-filter: blur(10.8px);
+  -webkit-backdrop-filter: blur(10.8px);
+  background: hsla(0, 0%, 100%, 0.25);
+  border: 1px solid hsla(0, 0%, 100%, 0.38);
+  border-radius: 16px;
+  border-radius: 0.5rem;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  gap: 25px;
+  padding: 20px 40px;
+  height: 200px;
+  .header {
+    font-size: 1.5rem;
+    font-weight: bolder;
+  }
+  #form,
+  form {
+    display: flex !important;
+    flex-direction: column;
+    gap: 12px;
+    input {
+      height: 35px;
+      border-radius: 5px;
+      border: none;
+      background: hsla(0, 0%, 100%, 0.25);
+    }
+    input:focus {
+      border: 2px solid hsl(209, 95%, 24%, 0.25);
+      outline: transparent;
+    }
+    .input-item {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      width: 250px;
+
+      label {
+        font-size: 1.25rem;
+      }
+    }
+    input::placeholder {
+      color: #000;
+      font-family: "DM Mono", sans-serif;
+      font-style: italic;
+      opacity: 0.75;
+      font-size: 15px;
+      padding-left: 3px;
+      text-transform: capitalize;
+    }
+    input[type="text"] {
+      padding: 2.5px 20px;
+    }
+    input[type="button"],
+    .join-meet {
+      height: max-content;
+      cursor: pointer;
+      margin-top: 15px;
+      font-family: "DM Sans", sans-serif;
+      font-weight: bold;
+      font-size: 1.5rem;
+      background-color: #0a5e8b;
+      text-transform: capitalize;
+    }
+  }
+  p {
+    font-size: 1rem;
+    margin-top: 10px;
+  }
+}
