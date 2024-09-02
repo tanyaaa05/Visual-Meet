@@ -1,6 +1,5 @@
-# Visual-Meet
+# 📅 Visual-Meet Project <br/>
 
-📅 Smart Meet Project <br/>
 Welcome to my Smart Meet Project! This application is designed to streamline and enhance virtual meetings, built using the MERN stack (MongoDB, Express.js, React, Node.js). It combines a robust backend with an interactive and responsive frontend, offering a seamless user experience. <br/>
 
 Key Features <br/>
