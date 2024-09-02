@@ -1,6 +1,6 @@
-# 📅 Visual-Meet Project <br/>
+# 📅[Visual Meet Project 🔗 ](https://visual-meet-ts.vercel.app) 👈 <br/>
 
-Welcome to my Smart Meet Project! This application is designed to streamline and enhance virtual meetings, built using the MERN stack (MongoDB, Express.js, React, Node.js). It combines a robust backend with an interactive and responsive frontend, offering a seamless user experience. <br/>
+Welcome to my Visual Meet Project! This application is designed to streamline and enhance virtual meetings, built using the MERN stack (MongoDB, Express.js, React, Node.js). It combines a robust backend with an interactive and responsive frontend, offering a seamless user experience. <br/>
 
 Key Features <br/>
 🌐 Real-Time Collaboration: Facilitates real-time communication and collaboration using WebSockets, ensuring participants can interact without delay. <br/>
@@ -18,7 +18,7 @@ Node.js: 🛠️ Runtime environment for executing server-side JavaScript. <br/>
 
 
 🤔 Why This Project? <br/>
-The Smart Meet Project is a comprehensive application that showcases my ability to build full-stack web applications using the MERN stack. It focuses on enhancing virtual meeting experiences by providing a complete, user-friendly platform for real-time collaboration. <br/>
+The Visual Meet Project is a comprehensive application that showcases my ability to build full-stack web applications using the MERN stack. It focuses on enhancing virtual meeting experiences by providing a complete, user-friendly platform for real-time collaboration. <br/>
 
 Explore the codebase to see how modern web technologies come together to create a powerful and intuitive meeting application! 🚀
 
