@@ -17,5 +17,11 @@ React: 🎨 Frontend library for creating an interactive and dynamic user interf
 Node.js: 🛠️ Runtime environment for executing server-side JavaScript. <br/>
 
 
+🤔 Why This Project? <br/>
+The Visual Meet Project is a comprehensive application that showcases my ability to build full-stack web applications using the MERN stack. It focuses on enhancing virtual meeting experiences by providing a complete, user-friendly platform for real-time collaboration. <br/>
+
+Explore the codebase to see how modern web technologies come together to create a powerful and intuitive meeting application! 🚀
+
+
 
 
