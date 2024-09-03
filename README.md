@@ -9,13 +9,11 @@ Key Features <br/>
 💬 Chat Functionality: Embedded chat feature within meetings for quick and easy communication. <br/>
 📊 Dashboard Analytics: Provides insightful meeting analytics and user activity logs to track and improve productivity. <br/>
 
-
 💻 Technologies Used <br/>
 MongoDB: 🗄️ NoSQL database for efficient data storage and retrieval. <br/>
 Express.js: 🚀 Backend framework for building a scalable server-side application. <br/>
 React: 🎨 Frontend library for creating an interactive and dynamic user interface. <br/>
 Node.js: 🛠️ Runtime environment for executing server-side JavaScript. <br/>
-
 
 🤔 Why This Project? <br/>
 The Visual Meet Project is a comprehensive application that showcases my ability to build full-stack web applications using the MERN stack. It focuses on enhancing virtual meeting experiences by providing a complete, user-friendly platform for real-time collaboration. <br/>
